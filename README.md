@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
