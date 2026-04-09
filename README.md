@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
@@ -67,4 +68,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0052-n-queens-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0743-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0743-network-delay-time) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
