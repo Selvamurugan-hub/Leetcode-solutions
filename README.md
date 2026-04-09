@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0410-split-array-largest-sum](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,8 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 <!---LeetCode Topics End-->
