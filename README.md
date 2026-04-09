@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0322-coin-change](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0621-task-scheduler](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
