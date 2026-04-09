@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0078-subsets) |
 | [0322-coin-change](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0078-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0207-course-schedule) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
