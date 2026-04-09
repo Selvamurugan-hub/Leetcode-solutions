@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Math
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0410-split-array-largest-sum](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
