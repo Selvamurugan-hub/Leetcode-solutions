@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0997-find-the-town-judge](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0997-find-the-town-judge](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
 ## Shortest Path
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0997-find-the-town-judge](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
 ## Counting
 |  |
 | ------- |
