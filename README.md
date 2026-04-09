@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0075-sort-colors) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0410-split-array-largest-sum](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
