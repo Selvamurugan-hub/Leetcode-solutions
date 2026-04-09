@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0322-coin-change](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Math
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0051-n-queens) |
+| [0322-coin-change](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
