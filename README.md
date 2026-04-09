@@ -72,16 +72,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0743-network-delay-time) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
