@@ -81,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Shortest Path
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0621-task-scheduler) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
