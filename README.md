@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Selvamurugan-hub/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
